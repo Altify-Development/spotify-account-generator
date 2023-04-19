@@ -1,4 +1,9 @@
 # spotify-account-generator
+
+# How to use
+
+Download zip from releases, run "run.bat", enter the thread count, and get premium spotify accounts ( 1 year plans )
+
 working 2023 auto premium spotify accounts 10/s using rotating proxies ( provided )
 
 [virustotal scan](https://www.virustotal.com/gui/file/0c3738fa25b7bea679b0efbf76c22384b2ee22de567b8164e129bbb2f144006b?nocache=1)

